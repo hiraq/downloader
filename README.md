@@ -45,5 +45,5 @@ parameter to check for race condition.
 
 # Notes
 
-My motivation to create this simple script just to have fun, so dont be too serious here, if you think you can add
+My motivation to create this simple script just for have fun, so dont be too serious here, if you think you can add
 more functionality (maybe like hooks?) just fork it, okay?
