@@ -33,7 +33,7 @@ Or if you not build it yet :
 go run --race *.go -fl /path/to/your/images.txt -sp /path/to/save/downloaded/files/
 ```
 
-Please dont forget last trailing slash in `sp` param.
+Please dont forget the last trailing slash in `sp` param.
 
 # Rationale
 
@@ -45,5 +45,5 @@ parameter to check for race condition.
 
 # Notes
 
-I'm create this simple script just to have fun, so dont be too serious here, if you think you can add
+My motivation to create this simple script just to have fun, so dont be too serious here, if you think you can add
 more functionality (maybe like hooks?) just fork it, okay?
